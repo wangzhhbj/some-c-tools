@@ -4,5 +4,4 @@ some tools developed by C/C++ language
 
 
 Transcoding
-
-wide utf8/ucs2
+utf8/ucs2
